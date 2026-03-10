@@ -1,0 +1,19 @@
+# Data files (large — don't push to GitHub)
+data/
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
